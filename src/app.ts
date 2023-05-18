@@ -19,3 +19,6 @@ class Application {
     }
 
 }
+//No olvidar iniciar la app, para no sufrir
+const application: Application = new Application();
+application.initialize();
