@@ -6,4 +6,4 @@ class LoggerConfig {
   }
 }
 
-export const logger: LoggerConfig = new LoggerConfig();
+export const logger: LoggerConfig = new LoggerConfig(); //Patron diseño Singleton.

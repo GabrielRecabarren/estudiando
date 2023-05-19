@@ -12,7 +12,7 @@ export class EjercicioServer{
 
     constructor(app: Application){
         this.app = app;
-        
+
     }
 
     public start(): void {
